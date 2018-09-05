@@ -37,5 +37,5 @@ Still updating...
                 - model: compare between KNN, Logistic Regression, SVM, DT, Stacking, Adaboost, GBDT, RF
 
 #### image_classification
-				
+		
 		- model: Neural Net
