@@ -10,7 +10,7 @@ Still updating...
 
 ## house-price-prediction
 
-                 -model: Linear Regression
+                - model: Linear Regression
                 
 ## five_methods_examples
 
