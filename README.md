@@ -39,3 +39,6 @@ Still updating...
 #### image_classification
 		
 		- model: Neural Net
+		
+#### mnist_CNN
+		- model: CNN
