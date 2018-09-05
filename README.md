@@ -4,41 +4,29 @@ This repository contains a few Machine Learning projects. They came from online-
 Still updating...
 
 
-
-
-
-
 #### house-price-prediction
-
-                - model: Linear Regression
+	- model: Linear Regression
                 
 #### five_methods_examples
-
-                - model: KNN, Linear Regression, Logistic Regression, SVM, Decision Tree
+	- model: KNN, Linear Regression, Logistic Regression, SVM, Decision Tree
                 
 #### employee_dimission_prediction
-
-                - model: Logistic Regression, Logistic Regression(self implementation)
+	- model: Logistic Regression, Logistic Regression(self implementation)
                 
 #### Titanic_Survival
-
-                - model: KNN, KNN(self implementation)
+	- model: KNN, KNN(self implementation)
                 
 #### SMS_Spam_Collection_Dataset
-
-                - model: Naive Bayes, Naive Bayes(self implementation)
+	- model: Naive Bayes, Naive Bayes(self implementation)
                 
 #### Movie_Sentiment_Analysis
-
-                - model: Naive Bayes
+	- model: Naive Bayes
                 
 #### Ensemble_learning
-
-                - model: compare between KNN, Logistic Regression, SVM, DT, Stacking, Adaboost, GBDT, RF
+	- model: compare between KNN, Logistic Regression, SVM, DT, Stacking, Adaboost, GBDT, RF
 
 #### image_classification
-		
-		- model: Neural Net
+	- model: Neural Net
 		
 #### mnist_CNN
-		- model: CNN
+	- model: CNN
