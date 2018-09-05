@@ -38,4 +38,4 @@ Still updating...
 
 #### image_classification
 				
-				- model: Neural Net
+		- model: Neural Net
