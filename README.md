@@ -1,5 +1,5 @@
 # Machine Learning projects
-This repository contains a few Machine Learning projects. They came from online-course-project and self-project.
+This repository contains a few Machine Learning projects. They came from course projects and self-projects.
 
 Still updating...
 
