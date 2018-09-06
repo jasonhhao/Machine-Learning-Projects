@@ -30,3 +30,6 @@ Still updating...
 		
 #### mnist_CNN
 	- model: CNN
+	
+#### mnist_classification
+	- model: KNN, LR, SVM, DT, Adaboost, GBDT, RF
