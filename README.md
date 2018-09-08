@@ -33,3 +33,6 @@ Still updating...
 	
 #### mnist_classification
 	- model: KNN, LR, SVM, DT, Adaboost, GBDT, RF
+	
+#### Text_Spam_Ham_Prediction
+	- model: Naive Bayes
