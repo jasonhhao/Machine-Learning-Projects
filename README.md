@@ -12,6 +12,9 @@ Still updating...
                 
 #### employee_dimission_prediction
 	- model: Logistic Regression, Logistic Regression(self implementation)
+	
+#### Titanic_Machine_Learning_from_Disaster
+	- model: LR, Random Forest, XGBoost, Adaboost, GBDT, Extra Trees, Decision Tree, SVM, LightGBM, model voting
                 
 #### Titanic_Survival
 	- model: KNN, KNN(self implementation)
